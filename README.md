@@ -3,25 +3,25 @@
 </div>  
   
 
-### <div align="center">Eu sou Adriano Grego, mas gosto de ser chamado de Grego. Sou Front End Developer e UX/UI designer, trabalho com programação desde 2021</div>  
+### <div align="center">Hi I am Grego, Full Stack Developer, but actually working at Front End Developer. I work with Software developing since 2020</div>  
   
 
-- 🔭Atualmente estou trabalhando em [Github Portifolio](https://github.com/grega1/portifolio)  
+- 🔭Actually working on [Github Portifolio](https://github.com/grega1/portifolio)  
   
 
-- 🌱 Atualmente estou aprendendo AWS, Typescript e Prisma  
+- 🌱 Learning Typescript, AWS and Prisma
   
 
-- ❓ Estou disponível para falar sobre as tecnologias utilizadas  
+- ❓ I am available to talk about the technologies presents on this profile
   
 
-- ⚡ Fato Interessante: Eu sou praticante de Yoga  
+- ⚡ Fun Fact: I am Yoga Teacher
   
 
 <br/>  
 
 
-## Minhas Habilidades 
+## My Knowlodge
 <table><tr><td valign="top" width="33%">
 
 
