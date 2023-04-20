@@ -15,13 +15,13 @@
 - ❓ I am available to talk about the technologies presents on this profile
   
 
-- ⚡ Fun Fact: I am Yoga Teacher
+- ⚡ Fun Fact: I am a Yoga Teacher
   
 
 <br/>  
 
 
-## My Knowlodge
+## My Skills
 <table><tr><td valign="top" width="33%">
 
 
