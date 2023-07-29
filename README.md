@@ -9,7 +9,7 @@
 - 🔭Actually working on [Github Portifolio](https://github.com/grega1/portifolio)  
   
 
-- 🌱 Learning Typescript, AWS and Prisma
+- 🌱 Learning Web3, AWS and Prisma
   
 
 - ❓ I am available to talk about the technologies presents on this profile
