@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Hi I am Grego, Full Stack Developer, but actually working at Front End Developer. I work with Software developing since 2020</div>  
+### <div align="center">Hi I am Grego, Full Stack Developer, but actually working as Front End Developer. I work with Software development since 2020</div>  
   
 
 - 🔭Actually working on [Github Portifolio](https://github.com/grega1/portifolio)  
   
 
-- 🌱 Learning Web3, AWS and Prisma
+- 🌱 Always focusing on learning new things.
   
 
-- ❓ I am available to talk about the technologies presents on this profile
+- ❓ I am available to talk about the technologies presented in this profile
   
 
 - ⚡ Fun Fact: I am a Yoga Teacher
