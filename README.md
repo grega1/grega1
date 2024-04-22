@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi I am Grego, Front End Developer focused on React with knowledge to be a Full Stack Developer. I work with Software development since 2020</div>  
+### <div align="center">Hi I am Grego, Front End Developer focused on React with knowledge to be a Full Stack Developer. I work with Software development since 2021</div>  
   
 
 - 🔭Actually working on [Github Portifolio](https://github.com/grega1/portifolio)  
